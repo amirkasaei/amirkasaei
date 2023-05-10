@@ -13,8 +13,7 @@ I'm bachelor tudent of Computer Engineering @ University of Guilan
   - Machine learning
   - Deep learning
 - 📧 You can contact me with [a.kasaei@me.com](a.kasaei@me.com)
-
-My full resume is available in my personal webpage [amirkasaei.github.io](https://amirkasaei.github.io/)
+- My full resume is available in my personal webpage [amirkasaei.github.io](https://amirkasaei.github.io/)
 
 <!--
 Here are some ideas to get you started:
