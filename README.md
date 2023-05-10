@@ -1,8 +1,21 @@
 ### Hi there 👋
 
-<!--
-**amirkasaei/amirkasaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is Amir Kasaei!**    
+    
+I'm bachelor tudent of Computer Engineering @ University of Guilan    
 
+- I’m currently researching in the field of Artificial Intelligence.
+  
+- 🔭 I’m currently working on my Deep Learning Projects
+- 💻 I’m currently learning AI subjects
+- 🔎 Intrested in:
+  - Artificial Intelligence
+  - Machine learning
+  - Deep learning
+- 📧 You can contact me with [a.kasaei@me.com](a.kasaei@me.com)
+My full resume is available in my personal webpage [amirkasaei.github.io](https://amirkasaei.github.io/)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
