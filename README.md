@@ -12,7 +12,7 @@ I'm bachelor tudent of Computer Engineering @ University of Guilan
   - Artificial Intelligence
   - Machine learning
   - Deep learning
-- 📧 Email: [a.kasaei@me.com]
+- 📧 Email: a.kasaei@me.com
 - 💬 Telegram: [amirkasaei](https://telegram.me/amirkasaei)
 - My full resume is available in my personal webpage [amirkasaei.github.io](https://amirkasaei.github.io/)
 
