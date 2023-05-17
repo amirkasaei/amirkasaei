@@ -2,9 +2,9 @@
 
 **This is Amir Kasaei!**    
     
-I'm bachelor tudent of Computer Engineering @ University of Guilan    
+I'm bachelor student of Computer Engineering @ University of Guilan    
 
-- I’m currently researching in the field of Artificial Intelligence.
+- I’m currently doing research in Artificial Intelligence.
   
 - 🔭 I’m currently working on my Deep Learning Projects
 - 💻 I’m currently learning AI subjects
