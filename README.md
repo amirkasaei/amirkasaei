@@ -2,16 +2,19 @@
 
 **This is Amir Kasaei!**    
     
-I'm bachelor student of Computer Engineering @ University of Guilan    
+I'm a bchelor graduate student of Computer Engineering @ University of Guilan    
 
-- I’m currently doing research in Artificial Intelligence.
-  
-- 🔭 I’m currently working on my Deep Learning Projects
-- 💻 I’m currently learning AI subjects
-- 🔎 Intrested in:
+- 🔎 I’m currently doing research in Artificial Intelligence.
+- 🔭 working on my Deep Learning Projects
+- 💻 learning AI subjects
+- 🌱 Intrested in:
   - Artificial Intelligence
-  - Machine learning
-  - Deep learning
+  - Machine Learning
+  - Data Mining
+  - Deep Learning
+  - Computer Vision
+  - Medical Image Processing
+  - 
 - 📧 Email: a.kasaei@me.com
 - 💬 Telegram: [amirkasaei](https://telegram.me/amirkasaei)
 - My full resume is available in my personal webpage [amirkasaei.github.io](https://amirkasaei.github.io/)
