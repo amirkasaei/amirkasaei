@@ -2,7 +2,7 @@
 
 **This is Amir Kasaei!**    
     
-I'm a bchelor graduate student of Computer Engineering @ University of Guilan    
+I'm a bachelor graduate student of Computer Engineering @ University of Guilan    
 
 - 🔎 I’m currently doing research in Artificial Intelligence.
 - 🔭 working on my Deep Learning Projects
