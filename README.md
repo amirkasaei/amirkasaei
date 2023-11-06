@@ -4,7 +4,7 @@
     
 I'm a graduate student of Software Engineering @ Sharif Uniersitty of Technology   
 
-- 🔎 I’m currently doing research in Artificial Intelligence.
+- 🔎 I’m currently doing research in MAchine Learning.
 - 🔭 working on my Deep Learning Projects
 - 💻 learning AI subjects
 - 🌱 Intrested in:
@@ -14,6 +14,7 @@ I'm a graduate student of Software Engineering @ Sharif Uniersitty of Technology
   - Deep Learning
   - Computer Vision
   - Medical Image Processing
+  - Machine Learning Safety
   - 
 - 📧 Email: a.kasaei@me.com
 - 💬 Telegram: [amirkasaei](https://telegram.me/amirkasaei)
