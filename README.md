@@ -4,7 +4,7 @@
     
 I'm a graduate student of Software Engineering @ Sharif Uniersitty of Technology   
 
-- 🔎 I’m currently doing research in MAchine Learning.
+- 🔎 I’m currently doing research in Machine Learning.
 - 🔭 working on my Deep Learning Projects
 - 💻 learning AI subjects
 - 🌱 Intrested in:
