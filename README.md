@@ -18,7 +18,7 @@ I'm a graduate student of Software Engineering @ Sharif Uniersitty of Technology
   - 
 - 📧 Email: a.kasaei@me.com
 - 💬 Telegram: [amirkasaei](https://telegram.me/amirkasaei)
-- My full resume is available in my personal webpage [amirkasaei.github.io](https://amirkasaei.com/)
+- My full resume is available in my personal webpage [amirkasaei.com](https://amirkasaei.com/)
 
 <!--
 Here are some ideas to get you started:
