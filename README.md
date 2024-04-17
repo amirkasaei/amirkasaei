@@ -2,7 +2,7 @@
 
 **This is Amir Kasaei!**    
     
-I'm a graduate student of Software Engineering @ Sharif Uniersitty of Technology   
+I'm a graduate student of Software Engineering @ Sharif Uniersity of Technology   
 
 - 🔎 I’m currently doing research in Machine Learning.
 - 🔭 working on my Deep Learning Projects
