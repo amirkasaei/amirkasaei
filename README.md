@@ -2,7 +2,7 @@
 
 **This is Amir Kasaei!**    
     
-I'm a graduate student of Software Engineering @ Sharif Uniersity of Technology   
+I'm a graduate student of Software Engineering @ Sharif University of Technology   
 
 - 🔎 I’m currently doing research in Machine Learning.
 - 🔭 working on my Deep Learning Projects
@@ -10,12 +10,15 @@ I'm a graduate student of Software Engineering @ Sharif Uniersity of Technology
 - 🌱 Intrested in:
   - Artificial Intelligence
   - Machine Learning
-  - Data Mining
   - Deep Learning
   - Computer Vision
-  - Medical Image Processing
+  _ Image Analysis
+  - Medical Image Analysis
   - Machine Learning Safety
-  - 
+  - Robustness and Interpretablity
+  - Compositional Generation
+  - Multi-Modal models
+
 - 📧 Email: a.kasaei@me.com
 - 💬 Telegram: [amirkasaei](https://telegram.me/amirkasaei)
 - My full resume is available in my personal webpage [amirkasaei.com](https://amirkasaei.com/)
