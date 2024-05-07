@@ -18,6 +18,9 @@ I'm a graduate student of Software Engineering @ Sharif University of Technology
   - Robustness and Interpretablity
   - Compositional Generation
   - Multi-Modal models
+  - Dffusion Models
+  - Conformal Prediction
+  - Machine Learning Trustworthy
 
 - 📧 Email: a.kasaei@me.com
 - 💬 Telegram: [amirkasaei](https://telegram.me/amirkasaei)
