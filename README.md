@@ -12,7 +12,7 @@ I'm a graduate student of Software Engineering @ Sharif University of Technology
   - Machine Learning
   - Deep Learning
   - Computer Vision
-  _ Image Analysis
+  - Image Analysis
   - Medical Image Analysis
   - Machine Learning Safety
   - Robustness and Interpretablity
