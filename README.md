@@ -18,7 +18,7 @@ I'm a graduate student of Software Engineering @ Sharif University of Technology
   - Robustness and Interpretablity
   - Compositional Generation
   - Multi-Modal models
-  - Dffusion Models
+  - Diffusion Models
   - Conformal Prediction
   - Machine Learning Trustworthy
 
