@@ -16,6 +16,7 @@ I'm a graduate student of Software Engineering @ Sharif University of Technology
   - Medical Image Analysis
   - Machine Learning Safety
   - Robustness and Interpretablity
+  - Text to Image Generation
   - Compositional Generation
   - Multi-Modal models
   - Diffusion Models
