@@ -5,7 +5,7 @@
 I'm a graduate student of Software Engineering @ Sharif University of Technology   
 
 - 🔎 I’m currently doing research in Machine Learning.
-- 🔭 working on my Deep Learning Projects
+- 🔭 Research Assistant @ RIML Lab
 - 💻 learning AI subjects
 - 🌱 Intrested in:
   - Artificial Intelligence
