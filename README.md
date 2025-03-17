@@ -1,8 +1,9 @@
 # Hi there 👋, I'm **Amir Kasaei**!  
 
-🎓 **Master’s student in Computer Software Engineering**  
-📍 **Sharif University of Technology**  
+🎓 **Master’s student in Computer Software Engineering** 
 🔬 **Research Assistant** at **RIML Lab**  
+📍 **Sharif University of Technology**  
+
 
 ---
 
